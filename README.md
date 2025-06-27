@@ -26,5 +26,3 @@ I'm exploring a wide range of programming languages and tools, including:
 - A friendly greeting + clear “currently learning” section shows growth :contentReference  
 - Projects and consistent commits help show real progress :contentReference  
 - Including goals, skills, and contact info makes your profile welcoming and professional :contentReference 
-
-Feel free to customize the project names, email, and skills as you grow. Let me know if you’d like help adding badges, stats widgets, or formatting tips!
